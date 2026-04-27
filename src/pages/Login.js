@@ -41,7 +41,7 @@ function Login() {
 
       <div className="login-card">
         <div className="login-icon-wrapper">
-          <FaRocket />
+          <FaGithub />
         </div>
         
         <h1 className="login-title">Open Source Tracker</h1>
